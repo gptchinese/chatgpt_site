@@ -6,8 +6,8 @@
 
 通过这些精选平台，您可以在学习、工作和日常生活中充分利用 ChatGPT 的功能。
 
-**ChatGPT 中文版**入口：**[https://chat.lanjing.pro](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站**：**[https://chat.yixiaai.com](https://xsimplechat.com)**
+**ChatGPT 中文版**入口：**[chat.lanjing.pro](https://chat.lanjing.pro)**   
+**ChatGPT 镜像网站**：**[xsimplechat.com](https://xsimplechat.com)**
 
 ---
 
