@@ -1,6 +1,6 @@
 # ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4）【2025年6月更新】
 
-> 更新日期: 2025-06-21      
+> 更新日期: 2025-06-26      
 
 本指南为您提供在国内如何便捷使用 [**ChatGPT 中文版**](https://chat.lanjingai.org) 的方法，并推荐多个**无需翻墙**的 [**ChatGPT镜像网站**](https://xsimplechat.com)
 
